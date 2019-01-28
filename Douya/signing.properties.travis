@@ -1,0 +1,4 @@
+storeFile=secret.jks
+storePassword=123asd
+keyAlias=douya
+keyPassword=123456
