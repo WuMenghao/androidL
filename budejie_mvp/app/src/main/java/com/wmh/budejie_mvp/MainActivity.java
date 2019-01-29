@@ -1,6 +1,0 @@
-package com.wmh.budejie_mvp;
-
-import android.app.Activity;
-
-public class MainActivity extends Activity {
-}
